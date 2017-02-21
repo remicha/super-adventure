@@ -1,0 +1,5 @@
+Ce fichier est crée et édité par VIM sur ma machine locale
+sur lequel j'ai cloné mon master de super-adventure
+
+Il sera poussé sur le GITHUB
+
