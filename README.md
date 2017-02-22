@@ -34,6 +34,14 @@ Use the endpoint in your main application (in config.ru or your router):
 Run the server:
 
     $ bundle exec redisse --stdout --verbos
+    
+Some commands:
+
+        require 'redisse'
+
+    Redisse.channels do |env|
+      %w[ global ]
+    end
 
 ## Next steps
 
